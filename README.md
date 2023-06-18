@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Matheus Damasceno 👋🏽
 
 <ul>
-    <li>E-mail para entrar em contato comigo: <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfpJtDJZvbTVVnTRQHwtBFBJBTDKjVhDNjVgHPShzKNnrDXZHtTsGFlDQMLFxTSZCGBXXB">matheus.damasceno510@gmail.com</a></li>
+    <li>E-mail para entrar em contato comigo: <a href="mailto:matheus.damasceno310@gmail.com">matheus.damasceno310@gmail.com</a></li>
 </ul>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-31008a243/)
