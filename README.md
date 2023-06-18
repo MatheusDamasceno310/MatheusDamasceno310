@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ff.tths/)
 
-[![MatheusDamasceno310 GitHub stats-ark](https://github-readme-stats.vercel.app/api?username=MatheusDamasceno310&show_icons=true&theme=default#gh-radical-mode-only)](https://github.com/MatheusDamasceno310/github-readme-stats#gh-light-mode-only)
+[![MatheusDamasceno310 GitHub stats-ark](https://github-readme-stats.vercel.app/api?username=MatheusDamasceno310&show_icons=true&theme=default#gh-radical-mode-only)](https://github.com/MatheusDamasceno310/github-readme-stats#gh-radical-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDamasceno310&layout=donut)](https://github.com/MatheusDamasceno310/github-readme-stats)
 
 ## Tecnologias que eu uso
