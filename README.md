@@ -1,6 +1,10 @@
 
 ### Olá! Eu sou o Matheus Damasceno 👋🏽
 
+#### Sou um desenvolvedor recentemente formado em desenvolvimento de sistemas. Aqui você encontrará projetos que demonstram minhas habilidades em programação e meu compromisso com a qualidade do código. Estou ansioso para colaborar e enfrentar novos desafios na área de desenvolvimento.
+
+#### Entre em contato e vamos construir algo incrível juntos!
+
 <ul>
     <li>E-mail para entrar em contato: <a href="mailto:matheus.damasceno310@gmail.com">matheus.damasceno310@gmail.com</a></li>
 </ul>
@@ -9,7 +13,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ff.tths/)
 
 [![MatheusDamasceno310 GitHub stats-ark](https://github-readme-stats.vercel.app/api?username=MatheusDamasceno310&show_icons=true&theme=default#gh-radical-mode-only)](https://github.com/MatheusDamasceno310)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDamasceno310&layout=donut)](https://github.com/MatheusDamasceno310)
 
 ## Tecnologias que eu uso
 
@@ -27,6 +30,4 @@
 </div>
 </br>
 
-### Sou um desenvolvedor recentemente formado em desenvolvimento de sistemas. Aqui você encontrará projetos que demonstram minhas habilidades em programação e meu compromisso com a qualidade do código. Estou ansioso para colaborar e enfrentar novos desafios na área de desenvolvimento.
-
-### Entre em contato e vamos construir algo incrível juntos!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDamasceno310&layout=donut)](https://github.com/MatheusDamasceno310)
