@@ -30,4 +30,4 @@
 </div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDamasceno310&langs_count=8)](https://github.com/MatheusDamasceno310)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDamasceno310&layout=compact)](https://github.com/MatheusDamasceno310)
